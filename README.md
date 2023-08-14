@@ -2,9 +2,9 @@ This is a [RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh) + [Ne
 
 ## Technolgies, and tools used
 
-- [RainbowKit](https://rainbowkit.com) - Wallet connection flow.
-- [wagmi](https://wagmi.sh) and [viem](https://viem.sh/) - To interact with Ethereum.
-- [Next.js](https://nextjs.org/docs) - Frontend application.
+- [RainbowKit](https://rainbowkit.com) - Wallet connection flow
+- [wagmi](https://wagmi.sh) and [viem](https://viem.sh/) - To interact with Ethereum
+- [Next.js](https://nextjs.org/docs) - Frontend application
 - [Hardhat](https://hardhat.org/) - Ethereum development environment
 - [Solidity Coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage for Solidity contracts
 
